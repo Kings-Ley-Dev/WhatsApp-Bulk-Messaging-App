@@ -1,5 +1,5 @@
 """
-ASGI config for whatsapp_project project.
+ASGI config for whatsapp_project project.  
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
