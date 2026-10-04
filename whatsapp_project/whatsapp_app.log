@@ -6,9 +6,9 @@ Twilio error for +233557272031: HTTP 401 error: Unable to create record: Authent
 Twilio error for +2335724756301: HTTP 401 error: Unable to create record: Authentication Error - invalid username
 Twilio error for 0247104161: HTTP 401 error: Unable to create record: Authentication Error - invalid username
 Error sending to +233557272031: HTTP 401 error: Unable to create record: Authentication Error - invalid username
-Failed to send messages to: ['+233557272031']
+Failed to send messages to: ['+233557272031'] 
 Error sending to +233544726002: HTTP 401 error: Unable to create record: Authentication Error - invalid username
-Failed to send messages to: ['+233544726002']
+Failed to send messages to: ['+233544726002'] 
 Error sending to +233544726002: HTTP 401 error: Unable to create record: Authentication Error - invalid username
 Failed to send messages to: ['+233544726002']
 Error sending to +233544726002: HTTP 401 error: Unable to create record: Authentication Error - invalid username
