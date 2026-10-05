@@ -1,5 +1,5 @@
 function hideUnselectedResourceFields(selectedResourceIndex) {
-  const fields = document.querySelectorAll("[resource-index]");
+  const fields = document.querySelectorAll("[resource-index]");  
 
   fields.forEach((field) => {
     if (field.getAttribute("resource-index") !== selectedResourceIndex.toString()) {
