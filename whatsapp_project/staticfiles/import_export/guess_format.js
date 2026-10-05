@@ -1,4 +1,4 @@
-(function($) {
+(function($) {  
   $().ready(function () {
     $('input.guess_format[type="file"]').change(function () {
       var files = this.files;
