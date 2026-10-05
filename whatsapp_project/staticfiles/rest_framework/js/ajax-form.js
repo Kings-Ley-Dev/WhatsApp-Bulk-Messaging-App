@@ -1,4 +1,4 @@
-function replaceDocument(docString) {
+function replaceDocument(docString) {  
   var doc = document.open("text/html");
 
   doc.write(docString);
