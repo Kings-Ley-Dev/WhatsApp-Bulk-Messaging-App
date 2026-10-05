@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  // JSON highlighting.
+  // JSON highlighting.  
   prettyPrint();
 
   // Bootstrap tooltips.
