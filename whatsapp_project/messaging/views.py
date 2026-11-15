@@ -4,8 +4,8 @@ from django.shortcuts import render, redirect, get_object_or_404
 from django.contrib import messages
 from .forms import ContactForm, MessageForm, CSVUploadForm, ScheduleMessageForm, ScheduledMessage
 from .models import Contact
-from django.conf import settings
-from twilio.rest import Client
+from django.conf import settings 
+from twilio.rest import Client 
 from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse
 from .tasks import send_whatsapp_message
