@@ -1,6 +1,6 @@
-# Welcome to the WhatsApp Business Bulk Messaging Project 
+# Welcome to the WhatsApp Business Bulk Messaging Project  
 
-The WhatsApp Business Bulk Messaging app is a Django-based application designed to send personalized WhatsApp messages to multiple contacts at once. It integrates with the Twilio API to leverage WhatsApp’s messaging service, making it ideal for businesses needing to communicate with customers, share promotions, or send updates in bulk.
+The WhatsApp Business Bulk Messaging app is a Django-based application designed to send personalized WhatsApp messages to multiple contacts at once. It integrates with the Twilio API to leverage WhatsApp’s messaging service, making it ideal for businesses needing to communicate with customers, share promotions, or send updates in bulk. 
 
 ## Key Features:
 - Bulk Messaging: Users can send messages to all contacts in their database or upload new contact lists via CSV. 
