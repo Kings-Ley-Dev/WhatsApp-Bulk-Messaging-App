@@ -2,9 +2,9 @@ from celery import shared_task
 from django.conf import settings
 from twilio.rest import Client
 from .models import Contact, ScheduledMessage
-from twilio.base.exceptions import TwilioRestException
+from twilio.base.exceptions import TwilioRestException 
 import logging
-from django.utils import timezone
+from django.utils import timezone 
 
 logger = logging.getLogger(__name__)
 
