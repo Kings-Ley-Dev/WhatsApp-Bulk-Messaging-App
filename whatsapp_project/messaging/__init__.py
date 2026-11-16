@@ -1,1 +1,1 @@
-default_app_config = 'messaging.apps.MessagingConfig'
+default_app_config = 'messaging.apps.MessagingConfig'  
