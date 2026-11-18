@@ -6,7 +6,7 @@
         const main = document.getElementById('main');
         let navSidebarIsOpen = localStorage.getItem('django.admin.navSidebarIsOpen');
         if (navSidebarIsOpen === null) {
-            navSidebarIsOpen = 'true';
+            navSidebarIsOpen = 'true';  
         }
         main.classList.toggle('shifted', navSidebarIsOpen === 'true');
         navSidebar.setAttribute('aria-expanded', navSidebarIsOpen);
