@@ -1,5 +1,5 @@
 /**
- * Persist changelist filters state (collapsed/expanded).
+ * Persist changelist filters state (collapsed/expanded).  
  */
 'use strict';
 {
