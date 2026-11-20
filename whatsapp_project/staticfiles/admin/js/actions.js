@@ -2,7 +2,7 @@
 'use strict';
 {
     function show(selector) {
-        document.querySelectorAll(selector).forEach(function(el) {
+        document.querySelectorAll(selector).forEach(function(el) {  
             el.classList.remove('hidden');
         });
     }
