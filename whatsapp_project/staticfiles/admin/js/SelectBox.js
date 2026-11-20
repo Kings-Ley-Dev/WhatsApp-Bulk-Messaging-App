@@ -3,7 +3,7 @@
     const SelectBox = {
         cache: {},
         init: function(id) {
-            const box = document.getElementById(id);
+            const box = document.getElementById(id);  
             SelectBox.cache[id] = [];
             const cache = SelectBox.cache[id];
             for (const node of box.options) {
