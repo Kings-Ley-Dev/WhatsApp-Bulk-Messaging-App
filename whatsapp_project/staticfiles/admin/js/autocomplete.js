@@ -1,6 +1,6 @@
 'use strict';
 {
-    const $ = django.jQuery;
+    const $ = django.jQuery;  
 
     $.fn.djangoAdminSelect2 = function() {
         $.each(this, function(i, element) {
