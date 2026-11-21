@@ -1,7 +1,7 @@
 'use strict';
 {
-    function setTheme(mode) {
-        if (mode !== "light" && mode !== "dark" && mode !== "auto") {
+    function setTheme(mode) {  
+        if (mode !== "light" && mode !== "dark" && mode !== "auto") { 
             console.error(`Got invalid theme mode: ${mode}. Resetting to auto.`);
             mode = "auto";  
         }
