@@ -5,7 +5,7 @@
 'use strict';
 {
     const DateTimeShortcuts = {
-        calendars: [],
+        calendars: [],   
         calendarInputs: [],
         clockInputs: [],
         clockHours: {
