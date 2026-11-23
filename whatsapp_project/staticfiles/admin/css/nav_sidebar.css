@@ -1,11 +1,11 @@
-.sticky { 
-    position: sticky; 
+.sticky {
+    position: sticky;
     top: 0;
-    max-height: 100vh;
+    max-height: 100vh; 
 }
 
-.toggle-nav-sidebar {
-    z-index: 20;
+.toggle-nav-sidebar { 
+    z-index: 20; 
     left: 0;
     display: flex;
     align-items: center;
