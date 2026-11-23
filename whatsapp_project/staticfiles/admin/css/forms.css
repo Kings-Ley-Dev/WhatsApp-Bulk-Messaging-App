@@ -6,7 +6,7 @@
     overflow: hidden;
     padding: 10px;
     font-size: 0.8125rem;
-    border-bottom: 1px solid var(--hairline-color);
+    border-bottom: 1px solid var(--hairline-color);  
 }
 
 .form-row img, .form-row input {
